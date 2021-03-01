@@ -1,0 +1,26 @@
+.reg-body {
+    background: url(../Login/login-background-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-width: 100vw;
+    min-height: 100vh;
+    padding-bottom: 30px;
+}
+.success-auth{
+    color: #4caf50;
+    margin: 10px 0px 0px 0px ;
+}
+.success-link{
+text-align: center;
+text-decoration: underline;
+}
+.success-error{
+    color: #d32f2f;
+    margin: 10px 0px 0px 0px ;
+}
+.login-link{
+    text-decoration: underline;
+}
+
+
